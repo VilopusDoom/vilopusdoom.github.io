@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Aspiring Information Security Analyst
+subtitle: Aspiring Information Security Analyst -Currently Seeking Internship Summer 2021!-
 ---
 
 My name is Pocholo Arangote, a current Information Security Student. Here are some of the things I enjoy:
@@ -14,7 +14,3 @@ My name is Pocholo Arangote, a current Information Security Student. Here are so
 - Phantasy Star Online 2 (Ship 3 Thorn)
 
 
-### Interesting and Useful Links:
-
-- [My LinkedIn (Let's Connect!)](https://www.linkedin.com/in/pocholo-arangote/)
-- [My Resume](https://vilopusdoom.github.io/personalwebsite/)

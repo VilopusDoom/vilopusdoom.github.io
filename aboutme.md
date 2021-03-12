@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Aspiring Information Security Analyst
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Pocholo Arangote, a current Information Security Student. Here are some of the things I enjoy:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Real Time Strategy Games
+- Playing with the latest in technology
+- Implementing creative solutions with weird and quirky technology
+- Finding the absolute best price/performance products
+- Warhammer 40k and Warhammer Fantasy
+- Phantasy Star Online 2 (Ship 3 Thorn)
 
-What else do you need?
 
-### My story
+### Interesting and Useful Links:
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- [My LinkedIn (Let's Connect!)](https://www.linkedin.com/in/pocholo-arangote/)
+- [My Resume](https://vilopusdoom.github.io/personalwebsite/)

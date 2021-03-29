@@ -17,7 +17,7 @@ Alright, this challenge was hard. You're given a .pcap, and it has your usual TC
   </a>
 </div>
 
-*Figure 1: Some TLS and TCP traffic* 
+*Figure 1: Some TLS and TCP traffic.* 
 
 <div style="text-align:center;">
   <a href="/assets/img/blog/2021-03-28-trend-micro-question/Screenshot (163).png">
@@ -35,7 +35,7 @@ To see what the UDP packets are transporting, we check the UDP stream.
   </a>
 </div>
 
-*Figure 3: How to follow the UDP stream. *
+*Figure 3: How to follow the UDP stream.*
 
 
 We get an odd looking file - this file has CAPITALWORDLETTERS followed by a whole lot of zeros. It repeats, until you hit a   
@@ -112,3 +112,5 @@ Luckily, the people who were sending the file also sent the password for the fil
 
 
 Once you have the password, all you need to do is open up your .png reward, and obtain the flag. 
+
+And that's all! A really challenging CTF challenge, that requires a lot of googling to solve. But when you look back at the solution, it seems deceptively simple. One of my favorite questions in the ISSessions CTF!

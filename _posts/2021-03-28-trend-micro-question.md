@@ -67,6 +67,7 @@ Now, Wireshark needs a Pre-Master-Secret(PMS) log file, to decrypt TLS traffic. 
 </div>
 
 *Figure 5: How to open the Transport Layer Security Preferences menu.*
+
 At the very bottom, you should see a Pre-Master-Secret log filename box, where you should enter the location of the text file you extracted.
 <div style="text-align:center;">
   <a href="/assets/img/blog/2021-03-28-trend-micro-question/Screenshot (169).png">

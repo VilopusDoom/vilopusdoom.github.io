@@ -84,7 +84,7 @@ This will allow you to read TLS traffic.
 
 *Figure 7: Yes! Now we can actually read some TLS traffic.*
 
-Now, we can finally figure out the flag. The file containing the flag is in one of the HTTP2 packets. Hint: it has DATA in the info tab of Wireshark.
+Now, we can finally figure out the flag. The file containing the flag is in one of the HTTP2 packets. So we check the packets, and find one with a compressed zip.
 <div style="text-align:center;">
   <a href="/assets/img/blog/2021-03-28-trend-micro-question/Screenshot (173).png">
     <img src="/assets/img/blog/2021-03-28-trend-micro-question/Screenshot (173).png" alt="LAG-F">
@@ -102,16 +102,16 @@ However, this file is encrypted.
 
 *Figure 9: Oh no! What are we to do? There's a password, and we don't know it!*
 
-Luckily, the people who were sending the file also sent the password for the file. It's located in one of the Websockets. These Websockets are where you can glimpse the conversation between two figures: hippo and raven. 
+Luckily, the people who were sending the file also sent the password for the file. It's located in one of the Websockets. These Websockets are where you can glimpse a conversation between two figures: hippo and raven. 
 <div style="text-align:center;">
   <a href="/assets/img/blog/2021-03-28-trend-micro-question/Screenshot (172).png">
     <img src="/assets/img/blog/2021-03-28-trend-micro-question/Screenshot (172).png" alt="TLS">
   </a>
 </div>
 
-*Figure 10: This is what the Websockets look like. They're the same color as the TLS, because TLS was encrypting them.*
+*Figure 10: This is what the Websockets look like. They're the same color as the TLS packets, because TLS was encrypting them.*
 
 
-Once you have the password, all you need to do is open up your .png reward, and obtain the flag. 
+Once you have the password, all you need to do is open up your .png reward, and obtain the flag: FLAG{0a897f0c4d} 
 
 And that's all! A really challenging CTF challenge, that requires a lot of googling to solve. But when you look back at the solution, it seems deceptively simple. One of my favorite questions in the ISSessions CTF!

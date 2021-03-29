@@ -76,6 +76,12 @@ Twitter
 ```
 
 We use any combination that makes sense from what we think are important keywords.
-In this instant, 26165 operators seems relevant, and we have a social media site: Twitter. Thus we search 26165 operator on Twitter. We get a series of Tweets from Dr. Richard Scholtz(@RVS3USA). More keywords can be gleaned. A Unit 26165 is mentioned, as well as DNC, GRU, and some info-sec tools. GRU is mentioned as *GRU OFFICERS* exfiltrating data from victims' computers. So we can probably conclude the following: Block=Unit, which makes sense, as they are similar. Operators = Officers. So, these tweets seem to be related to our intelligence. Unit 26165 Officers are attacking a government infrastructure. They belong to the GRU, a Russian Foreign Military Intelligence Agency. According to Wikipedia, the GRU is headquartered in Grizodubovoy str. 3, Moscow.
+In this instant, 26165 operators seems relevant, and we have a social media site: Twitter. Thus we search 26165 operator on Twitter. 
+We get a series of Tweets from Dr. Richard Scholtz(@RVS3USA). So now, we can retrieve more keywords. 
+A Unit 26165 is mentioned, as well as DNC, GRU, and some info-sec tools. GRU is mentioned as *GRU OFFICERS* exfiltrating data from victims' computers. 
+We can probably conclude the following: Block -> Unit, which makes sense, as they are similar. Operators -> Officers. 
+
+So, these tweets seem to be related to our intelligence. Unit 26165 Officers are attacking a government infrastructure. They belong to the GRU, a Russian Foreign Military Intelligence Agency. 
+According to Wikipedia, the GRU is headquartered in Grizodubovoy str. 3, Moscow.
 
 Therefore our FLAG is the first 10 characters of the sha256sum of "Grizodubovoy". Our FLAG thus is: FLAG{a1bc6d9df2}

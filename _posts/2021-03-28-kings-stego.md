@@ -1,6 +1,6 @@
 ---
 title: Kings Steganography 
-subtitle: ISSessions CTF Writeup
+subtitle: ISSessions CTF 2021 Writeup
 author: Pocholo Arangote
 permalink: /blog/issctf21/kings
 ---

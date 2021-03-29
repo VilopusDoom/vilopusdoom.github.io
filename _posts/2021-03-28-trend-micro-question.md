@@ -1,6 +1,6 @@
 ---
 title: Trend Micro - Who Builds Their Own Protocols!?
-subtitle: ISSessions CTF 2021
+subtitle: ISSessions CTF 2021 Writeup
 author: Pocholo Arangote
 permalink: /blog/issctf21/trend-micro-problem
 ---

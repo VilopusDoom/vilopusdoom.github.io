@@ -1,7 +1,8 @@
 ---
-title: What a Portrait - ISSessions CTF Steno Challenge
+title: What a Portrait - Steno Challenge
+subtitle: ISSessions CTF 2021
 author: Pocholo Arangote
-permalink: /blog/what-a-portrait
+permalink: /blog/issctf21/what-a-portrait
 ---
 
 #### Problem:

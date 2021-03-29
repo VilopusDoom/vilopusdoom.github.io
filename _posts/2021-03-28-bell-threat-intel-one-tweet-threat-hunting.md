@@ -8,10 +8,16 @@ permalink: /blog/issctf21/bell-ti-one-tweet
 #### Problem:
 Instructions:
 ```
-We received a new intelligence from our partners at the NSO. They have successfully intercepted a message that contains details on another big scale attacks on Canadian institutions. We believe the parties involved in this conversation are the command center and the operators. Our partners at NSO are expecting us to assist them with finding the main organizations behind this attack, where it can be a low level criminals, financial crime groups or even governmental agencies. We have to find their address of the headquarters and perform necessary action to stop them from launching the attacks. Use Open Source Intelligence (OSINT) methodology to find the information.
+We received a new intelligence from our partners at the NSO. 
+They have successfully intercepted a message that contains details on another big scale attacks on Canadian institutions. 
+We believe the parties involved in this conversation are the command center and the operators. 
+Our partners at NSO are expecting us to assist them with finding the main organizations behind this attack, where it can be a low level criminals, financial crime groups or even governmental agencies. 
+We have to find their address of the headquarters and perform necessary action to stop them from launching the attacks. 
+Use Open Source Intelligence (OSINT) methodology to find the information.
 
 Important Notes:
-Based on previous investigation, we saw operators were using Facebook, Twitter, LinkedIn, and even reddit to spread messages and instructions. You might need social media account on each platforms to get the full information while performing OSINT. 
+Based on previous investigation, we saw operators were using Facebook, Twitter, LinkedIn, and even reddit to spread messages and instructions. 
+You might need social media account on each platforms to get the full information while performing OSINT. 
 
 Task:
 Find the address of the main organization headquarters. 

@@ -1,7 +1,8 @@
 ---
 title: Bell Threat Intel One Tweet
+subtitle: ISSessions CTF 2021
 author: Pocholo Arangote
-permalink: /blog/bell-ti-one-tweet
+permalink: /blog/issctf21/bell-ti-one-tweet
 ---
 
 #### Problem:

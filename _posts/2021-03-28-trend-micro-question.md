@@ -114,6 +114,6 @@ Luckily, the people who were sending the file also sent the password for the fil
 *Figure 10: This is what the Websockets look like. They're the same color as the TLS packets, because TLS was encrypting them.*
 
 
-Once you have the password, all you need to do is open up your .png reward, and obtain the flag: FLAG{0a897f0c4d} 
+Once you have the password, all you need to do is open up your .png reward, and obtain the flag.
 
 And that's all! A really challenging CTF challenge, that requires a lot of googling to solve. But when you look back at the solution, it seems deceptively simple. One of my favorite questions in the ISSessions CTF!

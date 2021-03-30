@@ -14,4 +14,4 @@ Destruction is a form of creation. Wouldnt you agree  Darling?
 ```
 
 #### Solution:
-Load the .jpg in GIMP, increase the Exposure. The Flag is at the bottom: FLAG{b9df9afdd0}
+Load the .jpg in GIMP, increase the Exposure to find the flag.

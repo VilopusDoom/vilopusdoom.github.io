@@ -84,4 +84,4 @@ We can probably conclude the following: Block -> Unit, which makes sense, as the
 So, these tweets seem to be related to our intelligence. Unit 26165 Officers are attacking a government infrastructure. They belong to the GRU, a Russian Foreign Military Intelligence Agency. 
 According to Wikipedia, the GRU is headquartered in Grizodubovoy str. 3, Moscow.
 
-Therefore our FLAG is the first 10 characters of the sha256sum of "Grizodubovoy". Our FLAG thus is: FLAG{a1bc6d9df2}
+Therefore our street name is Grizodubovoy, and all we need to do now, is sha256sum it and take the first 10 characters.

@@ -11,6 +11,7 @@ File: iperius.pcap
 
 
 General Description
+
 Alright, this challenge was hard. You're given a .pcap, and it has your usual TCP ACKS, TLS Traffic, IPv4 traffic and some UDP mixed in there. The juicy bits (read: flag) are all caught up in the TLS traffic, but that's encrypted, so we'll leave it for now. Our primary goal then, is to somehow find a way to decrypt the TLS traffic. The TCP packets don't have anything too useful, but the UDP packets have a sizable amount of data. 
 
 <div style="text-align:center;">

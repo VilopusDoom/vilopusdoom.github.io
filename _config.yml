@@ -16,10 +16,10 @@ author: Pocholo Arangote
 navbar-links:
   Blog: "https://www.pocholoarangote.ca/"
   About Me: "aboutme"
-  Resources:
+  
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
-    - Resume: "resume"
+  Resume: "resume"
 
 # --- Logo --- #
 

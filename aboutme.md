@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: About Me
 subtitle: Aspiring Information Security Analyst -Currently Seeking Internship Summer 2021!-
 ---
 

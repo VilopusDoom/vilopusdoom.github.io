@@ -94,7 +94,7 @@ permalink: /iatestbed/
   <br>
   <label for="last-requests">Do you have any other specific requests?</label><br>
   <input type="text" id="last-requests" name="last-requests"><br>
-  <button type="submit">Send</button>
+  <button type="submit">Submit</button>
 
 </form>
         

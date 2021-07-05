@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Innovation Accelerator Sample Website Profile Delivery Option
 permalink: /iatestbed/
 ---
 

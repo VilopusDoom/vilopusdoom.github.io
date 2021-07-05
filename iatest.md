@@ -8,13 +8,13 @@ permalink: /iatestbed/
 <form action="https://getform.io/f/a953f233-5372-45fa-932f-dfeef263fd45" method="POST">
 
   <label for="name">Please Enter Your Name</label><br>
-  <input type="text" name="name" id="name" required><br>
+  <input type="text" name="name" id="name" placeholder="Full Name" required><br>
   <label for="email">Please Enter Your E-mail Address</label><br>
-  <input type="email" name="email" id="email" required><br>
+  <input type="email" name="email" id="email" placeholder="name@address.domain" required><br>
   <label for="phone">Please Enter Your Phone Number</label><br>
-  <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}"><br>
+  <input type="tel" id="phone" name="phone" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" placeholder="345-621-7890"><br>
   
-  Please enter your age:
+  Please enter your age: <br>
   <input type="radio" id="17-" name="age" value="17 and under">
   <label for="17-">17 and under</label><br>
   <input type="radio" id="1834" name="age" value="18-34">
@@ -27,10 +27,10 @@ permalink: /iatestbed/
   <label for="65">65+</label><br>
   
   <label for="numpeople">How many people are in your household?</label><br>
-  <input type="number" id="numpeople" name="numpeople" min="1" max="25">
+  <input type="number" id="numpeople" name="numpeople" min="1" max="25" placeholder="1"><br>
   
   
-  Select any food related allergens:
+  Select any food related allergens:<br>
   <div>
   <input type="checkbox" id="nut" name="nut"
          >
@@ -61,7 +61,7 @@ permalink: /iatestbed/
 </div>
   
   <br>
-  Select any dietary restrictions:
+  Select any dietary restrictions:<br>
   <div>
   <input type="checkbox" id="vegan" name="vegan"
          >

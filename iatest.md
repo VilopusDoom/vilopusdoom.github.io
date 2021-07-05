@@ -32,24 +32,24 @@ permalink: /iatestbed/
   
   Select any food related allergens:<br>
   <div>
-  <input type="checkbox" id="nut" name="nut"
+  <input type="checkbox" id="nut" name="allergy" value="Tree Nut"
          >
   <label for="nut">Tree Nut</label>
 </div>
   
   <div>
-  <input type="checkbox" id="dairy" name="dairy"
+  <input type="checkbox" id="dairy" name="allergy" value="Dairy"
          >
   <label for="dairy">Dairy</label>
 </div>
   
 <div>
-  <input type="checkbox" id="gluten" name="gluten">
+  <input type="checkbox" id="gluten" name="allergy" value="Gluten">
   <label for="gluten">Gluten</label>
 </div>
   
   <div>
-  <input type="checkbox" id="shellfish" name="shellfish"
+  <input type="checkbox" id="shellfish" name="allergy" value="Shellfish"
          >
   <label for="shellfish">Shellfish</label>
 </div>
@@ -63,24 +63,24 @@ permalink: /iatestbed/
   <br>
   Select any dietary restrictions:<br>
   <div>
-  <input type="checkbox" id="vegan" name="vegan"
+  <input type="checkbox" id="vegan" name="restr" value="Vegan"
          >
   <label for="vegan">Vegan</label>
 </div>
   
   <div>
-  <input type="checkbox" id="vegetarian" name="vegetarian"
+  <input type="checkbox" id="vegetarian" name="restr" value="Vegetarian"
          >
   <label for="vegetarian">Vegetarian</label>
 </div>
   
 <div>
-  <input type="checkbox" id="halal" name="halal">
+  <input type="checkbox" id="halal" name="restr" value="Halal">
   <label for="halal">Halal</label>
 </div>
   
   <div>
-  <input type="checkbox" id="kosher" name="kosher"
+  <input type="checkbox" id="kosher" name="restr" value="Kosher"
          >
   <label for="kosher">Kosher</label>
 </div>

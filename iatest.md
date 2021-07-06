@@ -5,7 +5,7 @@ permalink: /iatestbed/
 ---
 
 
-<form action="https://getform.io/f/a953f233-5372-45fa-932f-dfeef263fd45" method="POST">
+<form action="https://getform.io/f/f32246bf-48a3-44b4-9ab5-94db91f9f839" method="POST">
 
   <label for="name">Please Enter Your Name</label><br>
   <input type="text" name="name" id="name" placeholder="Full Name" required><br>

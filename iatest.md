@@ -32,24 +32,24 @@ permalink: /iatestbed/
   
   Select any food related allergens:<br>
   <div>
-  <input type="checkbox" id="nut" name="allergy" value="Tree Nut"
+  <input type="checkbox" id="nut" name="allergy[]" value="Tree Nut"
          >
   <label for="nut">Tree Nut</label>
 </div>
   
   <div>
-  <input type="checkbox" id="dairy" name="allergy" value="Dairy"
+  <input type="checkbox" id="dairy" name="allergy[]" value="Dairy"
          >
   <label for="dairy">Dairy</label>
 </div>
   
 <div>
-  <input type="checkbox" id="gluten" name="allergy" value="Gluten">
+  <input type="checkbox" id="gluten" name="allergy[]" value="Gluten">
   <label for="gluten">Gluten</label>
 </div>
   
   <div>
-  <input type="checkbox" id="shellfish" name="allergy" value="Shellfish"
+  <input type="checkbox" id="shellfish" name="allergy[]" value="Shellfish"
          >
   <label for="shellfish">Shellfish</label>
 </div>
@@ -57,30 +57,30 @@ permalink: /iatestbed/
   <div>
   <input type="checkbox" id="other-allergy" name="other-allergy"
          >
-  <label for="other-allergy">Other:</label><input type="text" id="other-desc-allergy" name="other-desc-allergy">
+  <label for="other-allergy">Other:</label><input type="text" id="allergy[]" name="other-desc-allergy">
 </div>
   
   <br>
   Select any dietary restrictions:<br>
   <div>
-  <input type="checkbox" id="vegan" name="restr" value="Vegan"
+  <input type="checkbox" id="vegan" name="restr[]" value="Vegan"
          >
   <label for="vegan">Vegan</label>
 </div>
   
   <div>
-  <input type="checkbox" id="vegetarian" name="restr" value="Vegetarian"
+  <input type="checkbox" id="vegetarian" name="restr[]" value="Vegetarian"
          >
   <label for="vegetarian">Vegetarian</label>
 </div>
   
 <div>
-  <input type="checkbox" id="halal" name="restr" value="Halal">
+  <input type="checkbox" id="halal" name="restr[]" value="Halal">
   <label for="halal">Halal</label>
 </div>
   
   <div>
-  <input type="checkbox" id="kosher" name="restr" value="Kosher"
+  <input type="checkbox" id="kosher" name="restr[]" value="Kosher"
          >
   <label for="kosher">Kosher</label>
 </div>
@@ -88,7 +88,7 @@ permalink: /iatestbed/
   <div>
   <input type="checkbox" id="other-rest" name="other-rest"
          >
-  <label for="other-rest">Other:</label><input type="text" id="other-desc-rest" name="other-desc-rest">
+  <label for="other-rest">Other:</label><input type="text" id="restr[]" name="other-desc-rest">
 </div>
   
   <br>

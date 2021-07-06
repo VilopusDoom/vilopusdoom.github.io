@@ -27,7 +27,7 @@ permalink: /iatestbed/
   <label for="65">65+</label><br>
   
   <label for="numpeople">How many people are in your household?</label><br>
-  <input type="number" id="numpeople" name="numpeople" min="1" max="25" placeholder="1"><br>
+  <input type="number" id="numpeople" name="numpeople" min="1" max="25" placeholder="1" required><br>
   
   
   Select any food related allergens:<br>

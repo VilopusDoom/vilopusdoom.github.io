@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About Me
-subtitle: Aspiring Information Security Analyst -Currently Seeking Internship Fall 2021!-
+subtitle: Security Analyst, Packetlabs Ltd.
 ---
 
-My name is Pocholo Arangote, a current Information Security Student. Here are some of the things I enjoy:
+My name is Pocholo Arangote, a Security Analyst at Packetlabs, currently on my co-op term. Here are some of the things I enjoy:
 
 - Real Time Strategy Games
 - Playing with the latest in technology

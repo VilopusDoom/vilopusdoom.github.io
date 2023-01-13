@@ -14,7 +14,7 @@ author: Pocholo Arangote
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "https://www.pocholoarangote.ca/"
+ 
   About Me: "aboutme"
   
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -227,9 +227,10 @@ exclude:
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
+  - jekyll-remote-theme
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
 
 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0

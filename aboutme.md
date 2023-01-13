@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Security Analyst, Packetlabs Ltd.
+subtitle: Student, Sheridan College.
 ---
 
 My name is Pocholo Arangote, a Cybersecurity Professional, currently finishing off my Degree at Sheridan College. Here are some of the things I enjoy:

@@ -1,15 +1,6 @@
 ---
 layout: page
 title: About Me
-subtitle: Student, Sheridan College.
+subtitle: Cybersecurity Professional, Recent Bachelor of Cybersecurity Graduate @ Sheridan College.
 ---
-
-My name is Pocholo Arangote, a Cybersecurity Professional, currently finishing off my Degree at Sheridan College. Here are some of the things I enjoy:
-
-- Continually improving my home lab setup
-- Playing with the latest in technology
-- Implementing creative solutions with weird and quirky technology
-- Finding the absolute best price/performance products
-- Warhammer 40k and Warhammer Fantasy
-- Guild Wars 2
-
+Welcome to my cybersecurity journey! My name's Pocholo, and I'm a recent graduate with a burning passion for all things tech and cybersecurity. When I'm not immersed in the digital world, you'll find me indulging in two of my favorite hobbies: conquering virtual realms in video games and savoring the delights of the culinary world. Join me as I navigate the exciting realm of cybersecurity while sprinkling in some gaming and gastronomic adventures along the way!
